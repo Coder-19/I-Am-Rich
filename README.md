@@ -1,2 +1,2 @@
-# I-Am-Rich
-A Basic iOS Project
+# I-am-Rich
+A basic iOS Project
